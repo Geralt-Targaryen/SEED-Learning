@@ -1,0 +1,47 @@
+Fold 0, PID: 2073451
+test accuracy of fold 0: 0.345905
+Training time of fold 0: 8.655632
+Fold 1, PID: 2073451
+test accuracy of fold 1: 0.433412
+Training time of fold 1: 8.664751
+Fold 2, PID: 2073451
+test accuracy of fold 2: 0.436948
+Training time of fold 2: 8.659603
+Fold 3, PID: 2073451
+test accuracy of fold 3: 0.684443
+Training time of fold 3: 8.788498
+Fold 4, PID: 2073451
+test accuracy of fold 4: 0.389806
+Training time of fold 4: 8.577091
+Fold 5, PID: 2073451
+test accuracy of fold 5: 0.335298
+Training time of fold 5: 8.594661
+Fold 6, PID: 2073451
+test accuracy of fold 6: 0.335298
+Training time of fold 6: 8.280934
+Fold 7, PID: 2073451
+test accuracy of fold 7: 0.428403
+Training time of fold 7: 8.227654
+Fold 8, PID: 2073451
+test accuracy of fold 8: 0.857690
+Training time of fold 8: 8.399794
+Fold 9, PID: 2073451
+test accuracy of fold 9: 0.360636
+Training time of fold 9: 8.129757
+Fold 10, PID: 2073451
+test accuracy of fold 10: 0.727166
+Training time of fold 10: 8.483048
+Fold 11, PID: 2073451
+test accuracy of fold 11: 0.355922
+Training time of fold 11: 8.298861
+Fold 12, PID: 2073451
+test accuracy of fold 12: 0.766942
+Training time of fold 12: 8.646643
+Fold 13, PID: 2073451
+test accuracy of fold 13: 0.444608
+Training time of fold 13: 8.535081
+Fold 14, PID: 2073451
+test accuracy of fold 14: 0.581025
+Training time of fold 14: 8.269657
+Training time: 127.22582602500916
+Average accuracy of all folds: 0.49890001964250646
